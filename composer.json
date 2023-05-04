@@ -1,5 +1,5 @@
 {
-  "name": "astronphp/collection",
+  "name": "dezworkastronphp/collection",
   "description": "better abstraction of array built in type",
   "type": "library",
   "require": {
@@ -12,7 +12,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "astronphp"
+      "name": "dezworkastronphp"
     }
   ],
   "autoload": {
